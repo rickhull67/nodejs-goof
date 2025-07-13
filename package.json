@@ -17,7 +17,7 @@
   "dependencies": {
     "adm-zip": "0.5.2",
     "body-parser": "1.20.3",
-    "cfenv": "^1.0.4",
+    "cfenv": "^1.2.4",
     "consolidate": "0.14.5",
     "dustjs-helpers": "1.5.0",
     "dustjs-linkedin": "3.0.1",
@@ -51,7 +51,7 @@
   "devDependencies": {
     "browserify": "^13.1.1",
     "nodemon": "^3.0.0",
-    "snyk": "^1.1064.0"
+    "snyk": "^1.1297.3"
   },
   "license": "Apache-2.0"
 }
